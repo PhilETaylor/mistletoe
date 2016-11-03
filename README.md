@@ -60,7 +60,7 @@ You *may* need to add composer's bin directory to your path.
 You may also install Mistletoe as a dependency for your Composer managed project:
 
 ```sh
-$ composer require chrismichaels84/mistletoe
+$ composer require michaels/mistletoe
 ```
 
 (or)
@@ -68,7 +68,7 @@ $ composer require chrismichaels84/mistletoe
 ```json
 {
     "require-dev": {
-        "chrismichaels84/mistletoe": "~0.9"
+        "michaels/mistletoe": "~0.9"
     }
 }
 ```
